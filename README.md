@@ -1,4 +1,4 @@
-#Modelado uml de un cronómetro y temporizador
+# Modelado uml de un cronómetro y temporizador
 
 
 Integrantes: 
